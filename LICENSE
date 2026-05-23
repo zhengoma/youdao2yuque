@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2026 zhengoma
+Copyright (c) 2023 DeppWang
+    (Original work: youdaonote-pull,
+     https://github.com/DeppWang/youdaonote-pull)
+
+Copyright (c) 2026 youdao2yuque contributors
+    (Yuque-import pipeline, file/format fixers, and related additions)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
