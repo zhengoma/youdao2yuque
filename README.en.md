@@ -52,7 +52,7 @@ local .note ───────► markdown ────────► markdo
 - macOS / Linux / Windows
 
 ```bash
-git clone https://github.com/<your-name>/youdao2yuque.git
+git clone https://github.com/zhengoma/youdao2yuque.git
 cd youdao2yuque
 pip install -r requirements.txt
 ```
