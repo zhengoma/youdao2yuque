@@ -52,7 +52,7 @@
 - macOS / Linux / Windows 均可（脚本平台无关）
 
 ```bash
-git clone https://github.com/<your-name>/youdao2yuque.git
+git clone https://github.com/zhengoma/youdao2yuque.git
 cd youdao2yuque
 pip install -r requirements.txt
 ```
